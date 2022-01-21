@@ -18,8 +18,8 @@ organizations:
 bio: ''
 # Interests to show in About widget
 interests:
-- R programming
-- (Statistical) Teaching materials
+- Programming (in R)
+- Developing statistical teaching materials
 - Official statistics
 - Latent variable modelling 
 - Multiple Imputation
