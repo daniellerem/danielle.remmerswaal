@@ -63,7 +63,7 @@ email: "d.m.remmerswaal@uu.nl"
 highlight_name: true
 ---
 
-I am a second year student in the _MSc programme Methodology and Statistics _. I am currently working on my thesis project "MILC".
+I am a second year student in the MSc programme Methodology and Statistics. I am currently working on my thesis project.
 My statistical interests are in latent variable modelling and multiple imputations. 
 You can see my academic work on Github, and my CV is available as a pdf.
 
