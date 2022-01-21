@@ -5,7 +5,7 @@
 
 title: Daniëlle Remmerswaal # Website name
 baseurl: 'https://danielleremmerswaal.netlify.app/' # Website URL
-copyright: '© {2022} Daniëlle Remmerswaal'
+copyright: '© Daniëlle Remmerswaal {year}'
 
 ############################
 ## LANGUAGE
