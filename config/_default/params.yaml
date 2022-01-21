@@ -22,7 +22,7 @@ twitter: ''
 
 email: d.m.remmerswaal@uu.nl
 address:
-  city: Utrecht
+  city: Utrecht (NL)
   country: Netherlands
   country_code: NL
 contact_links:
@@ -30,10 +30,10 @@ contact_links:
     icon_pack: fab
     name: LinkedIn Profile
     link: 'https://www.linkedin.com/in/dani%C3%ABlle-remmerswaal-70879113a/'
-  - icon: github
-    icon_pack: fa
-    name: GitHub Page 
-    link: 'https://github.com/daniellerem'
+#  - icon: github
+ #   icon_pack: fa
+  #  name: GitHub Page 
+   # link: 'https://github.com/daniellerem'
 
 # Site header
 
