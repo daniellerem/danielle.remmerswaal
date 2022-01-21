@@ -20,7 +20,10 @@ bio: ''
 # Interests to show in About widget
 interests:
 - R programming
-- R Markdown
+- (Statistical) Teaching materials
+- Official statistics
+- Latent variable modelling 
+- Multiple Imputation
 
 # Education to show in About widget
 education:
@@ -52,7 +55,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/cv_DanielleRemmerswaal.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,6 +63,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+
+My statistical interests are in latent variable modelling and multiple imputations. 
+You can see my academic work on Github, and my CV is available as a pdf.
+
 
 
 
