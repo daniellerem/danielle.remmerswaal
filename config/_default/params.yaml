@@ -22,7 +22,6 @@ twitter: ''
 
 email: d.m.remmerswaal@uu.nl
 address:
-  street: Padualaan 14
   city: Utrecht
   country: Netherlands
   country_code: NL
@@ -136,4 +135,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: avatar.jpg
