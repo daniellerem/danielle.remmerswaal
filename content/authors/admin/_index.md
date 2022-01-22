@@ -1,5 +1,4 @@
 ---
-
 # Display name
 title: Daniëlle Remmerswaal 
 
@@ -36,7 +35,7 @@ education:
     institution: Leiden University College (LUC), The Netherlands
     year: 2016-2019
     
-**#Skills**
+#Skills
 skills:
   -Github, JASP, LaTex, R, & R Markdown
 
