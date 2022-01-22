@@ -9,9 +9,9 @@ main:
     weight: 10
   - name: CV
     url: uploads/CV_DanielleRemmerswaal.pdf
-    weight: 20
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 50
 
 
