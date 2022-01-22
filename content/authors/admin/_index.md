@@ -66,8 +66,8 @@ email: "d.m.remmerswaal@uu.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
+---
 I am a second year student in the research master *Methodology and Statistics* at Utrecht University. From this MSc I gained a strong foundation in research methodology and applied statistics. In the future I aim to apply this knowledge in a research position. 
 
 I am currently working on my thesis project "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets". MILC -- Multiple Imputing Latent Classes -- is a method originally developed to estimate one type of error. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
