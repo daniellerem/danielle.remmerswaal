@@ -71,7 +71,7 @@ highlight_name: true
 
 I am a second year student in the research master *Methodology and Statistics* at Utrecht University. From this MSc I gained a strong foundation in research methodology and applied statistics. In the future I aim to apply this knowledge in a research position. 
 
-I am currently working on my thesis project "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets". MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a>.</p> to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
+I am currently working on my thesis project "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets". MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a>.to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
 
 You can see my academic work on Github. Links to my LinkedIn and my CV can also be found on the left side of this page.
 
