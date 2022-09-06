@@ -6,7 +6,7 @@ title: Daniëlle Remmerswaal
 superuser: true
 
 # Role/position/tagline
-role: MSc Student Methodology and Statistics
+role: PhD candidate Smart(phone) surveys
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: MSc in Methodology and Statistics
     institution: Utrecht University (UU), The Netherlands
-    year: 2020 - present
+    year: 2020 - 2022
   - course: BSc in Governance, Economics & Development
     institution: Leiden University College (LUC), The Netherlands
     year: 2016-2019
@@ -68,9 +68,8 @@ email: "d.m.remmerswaal@uu.nl"
 highlight_name: true
 
 ---
-In June 2022, I will have finished the research master *Methodology and Statistics* at Utrecht University. From this *MSc* I gained a strong foundation in research methodology and applied statistics. In the future I aim to apply this knowledge in a research position. 
 
-Currently, I am working on my thesis project "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets". MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a> to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
+Currently I am rewriting my master thesis "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets" in order to get it published. MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a> to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
 
 You can see my academic work on Github. Links to my LinkedIn and my CV can also be found on the left side of this page.
 
