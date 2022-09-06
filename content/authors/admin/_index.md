@@ -69,7 +69,9 @@ highlight_name: true
 
 ---
 
-Currently I am rewriting my master thesis "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets" in order to get it published. MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a> to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
+I am a PhD candidate in survey methodology at the Methodology and Statistics department at Utrecht University. A major part of my PhD project “Push-to-app: Effective recruitment and retention in smart surveys” is to consolidate the existing knowledge about the novel data collection methods, and to obtain an in-depth understanding of participation and retention in smart(phone) surveys by means of a combination of quantitative and qualititative research (mixed-methods approach). 
+
+Currently I am also busy with rewriting my master thesis "Comparing MILC and tree-MILC for estimating and correcting multiple types of errors in combined datasets" in order to get it published. MILC modelling is a combination of Latent Class analysis and Multiple Imputation and is developed by <a href="https://www.sciendo.com/article/10.1515/jos-2017-0044">Boeschoten et al. (2017)</a> to estimate classification errors in Composite Survey-Register Data. I am interested in its performance on situations with multiple types of errors (e.g. measurement and selection errors). 
 
 You can see my academic work on Github. Links to my LinkedIn and my CV can also be found on the left side of this page.
 
