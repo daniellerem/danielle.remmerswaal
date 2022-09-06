@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: uploads/CV_DanielleRemmerswaal.pdf
+    url: uploads/CV_DanielleRemmerswaal_short.pdf
     weight: 40
   - name: Contact
     url: '#contact'
